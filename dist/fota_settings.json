@@ -1,0 +1,15 @@
+{
+  "ip": "2401:4900:984a:33a6:0:0:0:2",
+  "port": "4059",
+  "protocol": "TCP",
+  "fota": {
+    "User": "0",
+    "Password": "0",
+    "Server IP": "0",
+    "File Port": "0",
+    "FOTA Mode": "1 - Delta FOTA"
+  },
+  "fp_url": "https://governmental-quotes-elegant-regulations.trycloudflare.com/",
+  "fp_func": "getFile",
+  "fp_fname": "DFOTA_HW14_E8GABVX_131_TO_133.pack"
+}
